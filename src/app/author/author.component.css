@@ -1,0 +1,26 @@
+.title-center {
+  margin: 0 auto;
+}
+.informacije {
+  background: yellow;
+  color: yellow;
+  text-align: right;
+  font-weight: bold;
+}
+.gaga {
+  justify-content: left;
+  display: flex;
+  flex: 150px;
+}
+.mat-expansion-panel-header.mat-expanded,
+.mat-expansion-panel-header.mat-expanded:hover {
+  background: yellow;
+}
+
+.ul {
+  color: #003399;
+}
+
+.boja {
+  background: lightblue;
+}

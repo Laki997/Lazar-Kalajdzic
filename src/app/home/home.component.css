@@ -1,0 +1,8 @@
+h1 {
+  color: yellow;
+  font-weight: inherit;
+  text-align: center;
+  opacity: 0.8;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 35px;
+}

@@ -1,0 +1,21 @@
+.title-center {
+  margin: 0 auto;
+}
+.gaga {
+  justify-content: left;
+  display: flex;
+  flex: 150px;
+}
+.informacije {
+  background: yellow;
+  color: yellow;
+  text-align: right;
+  font-weight: bold;
+}
+.boja {
+  background: lightblue;
+}
+.ul {
+  color: #003399;
+  font-weight: bold;
+}

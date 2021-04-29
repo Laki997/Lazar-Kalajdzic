@@ -1,0 +1,57 @@
+.container {
+  display: flex;
+  flex-basis: column;
+}
+
+.example-container {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  border: 1px solid black;
+  cursor: pointer;
+  background: url("./slike//main-background.png");
+  background-repeat: no-repeat;
+  background-position: 0 100%;
+  background-size: cover;
+  box-shadow: inset 0px 0px 40px 30px rgba(0, 0, 0, 0.4);
+}
+
+.example-button-row {
+  display: flex;
+  align-items: left;
+}
+
+.mat-button {
+  text-align: left;
+  display: block;
+}
+
+.add {
+  background: #ff9900;
+}
+.app {
+  background: #ff9900c7;
+}
+.mat-expansion-panel-header.mat-expanded,
+.mat-expansion-panel-header.mat-expanded:hover {
+  background: #ff9900c7;
+}
+
+.sidenav {
+  background: rgba(245, 245, 245, 0.2);
+}
+
+.bojaButt {
+  background: yellow;
+}
+
+.font {
+  font-weight: bold;
+}
+
+.klik {
+  position: relative;
+  float: right;
+}
